@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore saved artwork files
+artwork_*.png
+
+# Ignore virtual environments if created
+venv/
+env/
+.venv/
+
+# Ignore IDE specific folders
+.vscode/
+.idea/
+dist/
+build/
+*.spec
